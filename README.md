@@ -6,11 +6,7 @@
 
 
 
-[<img src="C:/Users/idis/AppData/Roaming/Typora/typora-user-images/image-20240920133746286.png" alt="image-20240920133746286" style="zoom:50%;" />](https://github.com/royal12646/mechine_learning/blob/main/1)
-
-
-<img src="C:/Users/idis/AppData/Roaming/Typora/typora-user-images/image-20240920134038458.png" alt="image-20240920134038458" style="zoom:50%;" />
-![image](https://github.com/user-attachments/assets/c3d0a8e8-f996-4970-93f0-4e405087456b)
+https://github.com/royal12646/mechine_learning/blob/main/1.png
 
 #### 方程参数：
 
