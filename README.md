@@ -6,7 +6,8 @@
 
 
 
-![image]https://github.com/royal12646/mechine_learning/blob/main/1.png
+![image](https://github.com/royal12646/mechine_learning/blob/main/1.png)
+![image](https://github.com/royal12646/mechine_learning/blob/main/2.png)
 
 #### 方程参数：
 
@@ -31,7 +32,7 @@ batch_size=16
 
 #### 结果：
 
-![image-20240920134827915](C:/Users/idis/AppData/Roaming/Typora/typora-user-images/image-20240920134827915.png)
+![image](https://github.com/royal12646/mechine_learning/blob/main/3.png)
 
 #### 方程参数：
 
@@ -67,7 +68,7 @@ batch_size=16
 
 ### 结果：
 
-<img src="C:/Users/idis/AppData/Roaming/Typora/typora-user-images/image-20240920135121473.png" alt="image-20240920135121473" style="zoom:50%;" />
+![image](https://github.com/royal12646/mechine_learning/blob/main/4.png)
 
 <img src="C:/Users/idis/AppData/Roaming/Typora/typora-user-images/image-20240920135146409.png" alt="image-20240920135146409" style="zoom:50%;" />
 
