@@ -70,7 +70,7 @@ batch_size=16
 
 ![image](https://github.com/royal12646/mechine_learning/blob/main/4.png)
 
-<img src="C:/Users/idis/AppData/Roaming/Typora/typora-user-images/image-20240920135146409.png" alt="image-20240920135146409" style="zoom:50%;" />
+![image](https://github.com/royal12646/mechine_learning/blob/main/5.png)
 
 #### 方程参数：
 
