@@ -6,7 +6,7 @@
 
 
 
-https://github.com/royal12646/mechine_learning/blob/main/1.png
+![image]https://github.com/royal12646/mechine_learning/blob/main/1.png
 
 #### 方程参数：
 
